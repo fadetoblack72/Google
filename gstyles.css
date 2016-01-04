@@ -1,0 +1,98 @@
+#user {
+	color:#969696;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+#topmenu {
+	position:absolute;
+	top:15px;
+	right:30px;
+}
+
+#logo {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 190px;
+}
+
+#topright li {
+	padding: 5px;
+
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: inherit;
+}
+
+#fun {
+    display: block;
+    width: 520px;
+    margin:35px auto;
+}
+
+#bar {
+	padding:8px;
+    border:1px solid #4D90FE;
+    width: 520px;
+    height: 15px;
+}
+
+#buttons {
+	width:360px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.search {
+	width: 174px;
+	padding: 7px;
+	background-color: #F7F7F7;
+	color: #632222;
+}
+
+ #footer {
+    position : absolute;
+    bottom : 0;
+    height : 40px;
+    margin-top : 40px;
+    background-color: #F2F2F2;
+    border: 1px solid #E4E4E4;
+    color: #776666;
+    width:99%;
+  }
+
+#left {
+	margin-top: 4px;
+	display: inline;
+	float: left;
+	width:auto;
+}
+
+
+#leftlist li {
+	margin: 13px;
+}
+
+#right {
+	margin-top: 4px;
+	display: inline;
+	float: right;
+	width: auto;
+}
+
+
+#rightlist li {
+	margin: 13px;
+}
